@@ -1,0 +1,1 @@
+$(#marquee).marqueeLeft({increment:1, padding: 3, delay:50});
